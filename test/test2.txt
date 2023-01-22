@@ -1,6 +1,8 @@
 ************************
        Make It 24!      
-Solutions for 10,10,10,10
-Total : 0 solutions
+Solutions for 11,2,4,12
+Total : 2 solutions
 Runtime : 0.000 seconds
 ************************
+((11-2)*4)-12
+(4*(11-2))-12
