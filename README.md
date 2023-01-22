@@ -31,8 +31,7 @@ Tucil1_13521010
 │  ├─ test3.txt       
 │  ├─ test4.txt       
 │  ├─ test5.txt       
-│  ├─ test6.txt       
-│  └─ test7.txt       
+│  └─ test6.txt            
 └─ README.md          
      
 ```
