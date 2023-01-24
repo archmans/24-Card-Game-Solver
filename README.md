@@ -16,23 +16,26 @@ Tucil (Tugas Kecil) 1 is a project for IF2211 Algorithm Strategies course. The p
 ## Project Structure
 ```bash
 .
-Tucil1_13521010       
-├─ bin                
-├─ doc                
-├─ src                
-│  ├─ makeIt24.cpp    
-│  ├─ operations.cpp  
-│  ├─ operations.hpp  
-│  ├─ solver24.cpp    
-│  └─ solver24.hpp    
-├─ test               
-│  ├─ test1.txt       
-│  ├─ test2.txt       
-│  ├─ test3.txt       
-│  ├─ test4.txt       
-│  ├─ test5.txt       
-│  └─ test6.txt            
-└─ README.md          
+Tucil1_13521010                                             
+├─ bin                                                      
+│  └─ makeIt24.exe                                          
+├─ doc                                                      
+│  ├─ Tucil1-Stima-2023.pdf                                 
+│  └─ Tucil1_K3_13521010_Muhamad Salman Hakim Alfarisi.pdf  
+├─ src                                                      
+│  ├─ makeIt24.cpp                                          
+│  ├─ operations.cpp                                        
+│  ├─ operations.hpp                                        
+│  ├─ solver24.cpp                                          
+│  └─ solver24.hpp                                          
+├─ test                                                     
+│  ├─ test1.txt                                             
+│  ├─ test2.txt                                             
+│  ├─ test3.txt                                             
+│  ├─ test4.txt                                             
+│  ├─ test5.txt                                             
+│  └─ test6.txt                                             
+└─ README.md                                                
      
 ```
 ## Local Setup
